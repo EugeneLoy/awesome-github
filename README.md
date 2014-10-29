@@ -3,6 +3,8 @@ A curated list of awesome GitHub goodies. Here you can find services/tools/exten
 
 Everything listed here is either free to use or free for open source projects.
 
+**Note: list is currently at it's initial state. Expect more goodies to be added soon. Also, feel free to [contribute](#contributing).**
+
 - [Awesome GitHub](#awesome-github)
 	- [Continuous integration (CI)](#continuous-integration-ci)
 	- [Code coverage](#code-coverage)
@@ -43,6 +45,6 @@ Other awesome services/tools/extensions.
 * [Octotree](https://github.com/buunguyen/octotree)
 
 # Contributing
-Miss something in this list? Want to contribute? Send a pull request, [discuss here](https://github.com/EugenyLoy/awesome-github/issues/1) or open a new issue to do this.
+Miss something in this list? Found a typo? Want to contribute? Send a pull request, [discuss here](https://github.com/EugenyLoy/awesome-github/issues/1) or open a new issue to do this.
 
 Any help is welcomed!

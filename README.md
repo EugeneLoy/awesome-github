@@ -1,5 +1,7 @@
 # Awesome GitHub
-A curated list of awesome GitHub goodies. TODO
+A curated list of awesome GitHub goodies. Here you can find services/tools/extensions that may improve or complement your open source experience with GitHub.
+
+Everything listed here is either free to use or free for open source projects.
 
 - [Awesome GitHub](#awesome-github)
 	- [Continuous integration (CI)](#continuous-integration-ci)

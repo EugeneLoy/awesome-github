@@ -2,7 +2,11 @@
 A curated list of awesome GitHub goodies. TODO
 
 - [Awesome GitHub](#awesome-github)
-	- [Todo](#todo)
+	- [Continuous integration (CI)](#continuous-integration-ci)
+	- [Code coverage](#code-coverage)
+	- [Issue tracking](#issue-tracking)
+	- [Static analysis](#static-analysis)
+	- [Other](#other)
 - [Contributing](#contributing)
 
 ## Continuous integration (CI)
@@ -27,6 +31,12 @@ Static analysis/automated code review/coding style check as a service.
 * [Code Climate](https://codeclimate.com/)
 * [Hound](https://houndci.com/)
 * [PullReview](https://www.pullreview.com/)
+
+## Other
+Other awesome services/tools/extensions.
+
+* [Hub](https://github.com/github/hub)
+* [Octotree](https://github.com/buunguyen/octotree)
 
 # Contributing
 Todo.

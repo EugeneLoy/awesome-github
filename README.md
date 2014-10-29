@@ -42,4 +42,5 @@ Other awesome services/tools/extensions.
 
 # Contributing
 Miss something in this list? Want to contribute? Send a pull request, [discuss](https://github.com/EugenyLoy/awesome-github/issues/1) or open a new issue to do this.
+
 Any help is welcomed!

@@ -35,6 +35,8 @@ Static analysis/automated code review/coding style check as a service.
 ## Other
 Other awesome services/tools/extensions.
 
+* [GitHub Buttons](http://ghbtns.com/)
+* [Github Release Watch](http://gh-release-watch.com/)
 * [Hub](https://github.com/github/hub)
 * [Octotree](https://github.com/buunguyen/octotree)
 

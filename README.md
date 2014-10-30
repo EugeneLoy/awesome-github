@@ -26,7 +26,8 @@ Code coverage as a service.
 ## Issue tracking
 Issue trackers/taskboards/collaboration tools extending GitHub issues.
 
-* [Waffle.io](https://waffle.io/)
+* [Waffle](https://waffle.io/)
+* [ZenHub](https://www.zenhub.io/)
 
 ## Static analysis
 Static analysis/automated code review/coding style check as a service.

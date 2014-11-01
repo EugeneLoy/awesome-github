@@ -6,12 +6,29 @@ Everything listed here is either free to use or free for open source projects.
 **Note: list is currently at it's initial state. Expect more goodies to be added soon. Also, feel free to [contribute](#contributing).**
 
 - [Awesome GitHub](#awesome-github)
+	- [Command line](#command-line)
 	- [Continuous integration (CI)](#continuous-integration-ci)
 	- [Code coverage](#code-coverage)
 	- [Issue tracking](#issue-tracking)
 	- [Static analysis](#static-analysis)
 	- [Other](#other)
 - [Contributing](#contributing)
+
+## Command line
+Cli for GitHub.
+
+* [App::gh](https://github.com/c9s/App-gh)
+* [gh](https://github.com/jingweno/gh)
+* [ghi](https://github.com/macroscope/ghi)
+* [ghi](https://github.com/stephencelis/ghi)
+* [git-hub](http://seveas.github.io/git-hub/)
+* [git-hub](https://github.com/sociomantic/git-hub)
+* [git-pulls](https://github.com/schacon/git-pulls)
+* [GitHub Gem](https://github.com/defunkt/github-gem)
+* [github-release](https://github.com/aktau/github-release)
+* [GithubCLI](https://github.com/peter-murach/github_cli)
+* [Hub](https://github.com/github/hub)
+* [Node GH](http://nodegh.io/)
 
 ## Continuous integration (CI)
 CI as a service.
@@ -42,7 +59,6 @@ Other awesome services/tools/extensions.
 
 * [GitHub Buttons](http://ghbtns.com/)
 * [Github Release Watch](http://gh-release-watch.com/)
-* [Hub](https://github.com/github/hub)
 * [Octotree](https://github.com/buunguyen/octotree)
 
 # Contributing

@@ -57,12 +57,17 @@ Static analysis/automated code review/coding style check as a service.
 ## Other
 Other awesome services/tools/extensions.
 
+* [Badger](http://badges.github.io/badgerbadgerbadger/)
 * [geohub](http://geohub.github.io/)
 * [Git Trash](http://kureikain.github.io/git-trash/)
+* [GitHub badge](http://githubbadge.appspot.com/)
 * [GitHub Buttons](http://ghbtns.com/)
 * [Github Release Watch](http://gh-release-watch.com/)
 * [Octotree](https://github.com/buunguyen/octotree)
+* [PyPI Shields/Pins](https://pypip.in/)
+* [Shields.io](http://shields.io/)
 * [Sourcegraph](https://sourcegraph.com/)
+* [Version Badge](http://badge.fury.io/)
 
 # Contributing
 Miss something in this list? Found a typo? Want to contribute? Send a pull request, [discuss here](https://github.com/EugenyLoy/awesome-github/issues/1) or open a new issue to do this.

@@ -9,6 +9,7 @@ Everything listed here is either free to use or free for open source projects.
 	- [Command line](#command-line)
 	- [Continuous integration (CI)](#continuous-integration-ci)
 	- [Code coverage](#code-coverage)
+	- [Dependency management](#dependency-management)
 	- [Issue tracking](#issue-tracking)
 	- [Static analysis](#static-analysis)
 	- [Other](#other)

@@ -74,6 +74,7 @@ Other awesome services/tools/extensions.
 * [GitHub badge](http://githubbadge.appspot.com/)
 * [GitHub Buttons](http://ghbtns.com/)
 * [Github Release Watch](http://gh-release-watch.com/)
+* [Issue Stats](http://issuestats.com/)
 * [NodeICO](https://nodei.co/)
 * [Octotree](https://github.com/buunguyen/octotree)
 * [PyPI Shields/Pins](https://pypip.in/)

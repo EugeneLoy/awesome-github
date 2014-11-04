@@ -40,6 +40,15 @@ Code coverage as a service.
 
 * [Coveralls](https://coveralls.io/)
 
+## Dependency management
+Dependency management/monitoring.
+
+* [David](https://david-dm.org/)
+* [Depending](https://depending.in/)
+* [Gemnasium](https://gemnasium.com/)
+* [Requires.io](https://requires.io/)
+* [VersionEye](https://www.versioneye.com/)
+
 ## Issue tracking
 Issue trackers/taskboards/collaboration tools extending GitHub issues.
 

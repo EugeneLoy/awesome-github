@@ -71,6 +71,7 @@ Other awesome services/tools/extensions.
 * [Badger](http://badges.github.io/badgerbadgerbadger/)
 * [geohub](http://geohub.github.io/)
 * [Git Trash](http://kureikain.github.io/git-trash/)
+* [GitCop](https://gitcop.com/)
 * [GitHub badge](http://githubbadge.appspot.com/)
 * [GitHub Buttons](http://ghbtns.com/)
 * [Github Release Watch](http://gh-release-watch.com/)

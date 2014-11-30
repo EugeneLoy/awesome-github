@@ -67,6 +67,7 @@ Static analysis/automated code review/coding style check as a service.
 ## Other
 Other awesome services/tools/extensions.
 
+* [Astral](http://astralapp.com/)
 * [Badge Poser](https://poser.pugx.org/)
 * [Badger](http://badges.github.io/badgerbadgerbadger/)
 * [geohub](http://geohub.github.io/)

@@ -80,7 +80,9 @@ Other awesome services/tools/extensions.
 * [NodeICO](https://nodei.co/)
 * [Octotree](https://github.com/buunguyen/octotree)
 * [PyPI Shields/Pins](https://pypip.in/)
+* [Reviewable](https://reviewable.io)
 * [Shields.io](http://shields.io/)
+* [Shrinkray](https://shrinkray.io)
 * [Sourcegraph](https://sourcegraph.com/)
 * [Version Badge](http://badge.fury.io/)
 

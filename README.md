@@ -39,6 +39,7 @@ CI as a service.
 ## Code coverage
 Code coverage as a service.
 
+* [Codecov](https://codecov.io/)
 * [Coveralls](https://coveralls.io/)
 
 ## Dependency management
